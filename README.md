@@ -43,6 +43,5 @@ Shows loading and error states.
 <img width="1902" height="967" alt="Screenshot 2026-07-01 133929" src="https://github.com/user-attachments/assets/1bcb9acd-71eb-40f6-a284-f4591e258ee9" />
 <img width="1907" height="887" alt="Screenshot 2026-07-01 133954" src="https://github.com/user-attachments/assets/685c8a28-309c-4aab-836f-0534f4362640" />
 <img width="1858" height="962" alt="Screenshot 2026-07-01 134003" src="https://github.com/user-attachments/assets/26b24106-d738-4989-b434-abd00e7b088e" />
-<img width="1902" height="967" alt="Screenshot 2026-07-01 133929" src="https://github.com/user-attachments/assets/c91738a4-002a-4605-a298-34513f0e2431" />
 
 
