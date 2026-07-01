@@ -21,21 +21,8 @@ Vite
 JavaScript
 Material UI
 Fetch API
-Project Structure
-src/
-├── api/
-│   └── notifications.js
-├── components/
-│   ├── NotificationCard.jsx
-│   └── NotificationFilter.jsx
-├── hooks/
-│   └── useNotifications.js
-├── pages/
-│   └── NotificationsPage.jsx
-├── App.jsx
-├── main.jsx
-└── index.css
-Installation
+
+Installation :
 npm install
 Run the Project
 npm run dev
